@@ -20,5 +20,8 @@ Amazon: [1U Perforated Rack Panel](https://www.amazon.com/s?k=1U+Perforated+Rack
 Raspberry Pico
 I used both the Pico 2 and Pico Original - with the header pins pre-installed.  Cloned Picos work as well.
   
+Notes:
+Fonts 
+[Font to MicroPython](https://github.com/peterhinch/micropython-font-to-py/blob/master/FONT_TO_PY.md)
 
 
